@@ -1,0 +1,15 @@
+{
+  "name": "algebroid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "beefy": "^2.1.8",
+    "browserify": "^14.4.0"
+  },
+  "scripts": {
+    "start": "beefy xyz.js:bundle.js --open"
+  },
+  "author": "",
+  "license": "ISC"
+}
